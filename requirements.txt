@@ -1,4 +1,3 @@
-Libaries:
 pandas
 matplotlib
 plotly
