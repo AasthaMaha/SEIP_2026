@@ -1,0 +1,6 @@
+Libaries:
+pandas
+matplotlib
+plotly
+numpy
+seaborn
